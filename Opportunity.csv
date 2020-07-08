@@ -1,0 +1,2 @@
+Guid,AccountId,Amount,CloseDate,ContactId,Description,ForecastCategoryName,LeadSource,Name,NextStep,Probability,SBQQ__Contracted__c,SBQQ__CreateContractedPrices__c,SBQQ__OrderGroupID__c,SBQQ__Ordered__c,SBQQ__QuotePricebookId__c,SBQQ__Renewal__c,StageName,Type
+03bb0b77-273a-40cb-9c85-e58582373cfc,827138e1-c365-41b8-a2b2-90c5ffdfce5b,"#N/A",2020-07-08,"#N/A","#N/A",Pipeline,"#N/A",Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
